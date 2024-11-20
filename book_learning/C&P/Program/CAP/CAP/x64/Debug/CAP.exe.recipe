@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\Desktop\work\code\C&amp;P\Program\CAP\x64\Debug\CAP.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\Desktop\work\code\C&amp;P\Program\CAP\ch12\insert1.c</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Desktop\work\code\C&amp;P\Program\CAP\ch12\sll_node.h</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
